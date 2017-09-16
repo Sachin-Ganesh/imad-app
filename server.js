@@ -9,7 +9,7 @@ var articleOne={
     title: 'Article One | Sachin Ganesh',
     heading: 'Article One',
     date: 'Sep 5,2016',
-    comtent:`
+    content:`
     <p>
             Blah Blah Blah Blah Blah Blah Blah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah BlahBlah Blah Blah
         </p>
